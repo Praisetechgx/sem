@@ -460,15 +460,15 @@ header span i {
 }
 
 .slider .item-first {
-  background-image: url(../images/others/istockphoto-1312943525-612x612.webp);
+  background-image: url(../images/others/2148944859.jpg);
 }
 
 .slider .item-second {
-  background-image: url(../images/others/2149031320.jpg);
+  background-image: url(../images/others/2149315351.jpg);
 }
 
 .slider .item-third {
-  background-image: url(../images/others/pexels-olly-3768131.jpg);
+  background-image: url(../images/others/2149440085.jpg);
 }
 
 /*---------------------------------------
@@ -476,7 +476,7 @@ header span i {
   -----------------------------------------*/
 
 #about {
-  background: url("../images/others/BACK.jpg") no-repeat top center;
+  background: url("../images/others/bgfd.jpg") no-repeat top center;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 150px;
